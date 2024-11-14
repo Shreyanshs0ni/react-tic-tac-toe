@@ -47,6 +47,7 @@ margin-bottom: 50px;
     width: 564px;
     display: flex;
     margin: auto;
-
-
+}
+.boxes img {
+    margin: 50px;
 }
